@@ -1,0 +1,539 @@
+Telugu (/ˈtɛlʊɡuː/;[6] తెలుగు, Telugui pronunciation: [ˈt̪eluɡu]) is a classical Dravidian language native to the Indian states of Andhra Pradesh and Telangana, where it is also the official language. Spoken by about 96 million people (2022),[7] Telugu is the most widely spoken member of the Dravidian language family, and one of the twenty-two scheduled languages of the Republic of India.[8] It is one of the few languages that has primary official status in more than one Indian state, alongside Hindi and Bengali.[9] Telugu is one of the languages designated as a classical language by the Government of India. It is the 14th most spoken native language in the world.[10] Modern Standard Telugu is based on the dialect of erstwhile Krishna, Guntur, East Godavari and West Godavari districts of Coastal Andhra.[14]
+
+Telugu is also spoken in the states of Karnataka, Tamil Nadu, Maharashtra, Chhattisgarh, Orissa and the union territories of Puducherry and Andaman and Nicobar Islands. It is also spoken by members of the Telugu diaspora spread across countries like United States, Australia, Malaysia, Mauritius, UAE, Saudi Arabia and others.[15][16] Telugu is the fastest-growing language in the United States.[17] It is also a protected language in South Africa and is offered as an optional third language in schools in KwaZulu-Natal province.[18]
+
+According to Mikhail S. Andronov, Telugu split from the Proto-Dravidian language around 1000 BCE.[19][20] The earliest Telugu words appear in Prakrit inscriptions dating to c. 4th century BCE, found in Bhattiprolu, Andhra Pradesh.[21][22] Telugu label inscriptions and Prakrit inscriptions containing Telugu words have been dated to the era of Emperor Ashoka (257 BCE), as well as to the Satavahana and Vishnukundina periods.[23][24] Inscriptions in Old Telugu script were found as far away as Indonesia and Myanmar.[25] Telugu has been in use as an official language for over 1,400 years[26] and has served as the court language for numerous dynasties in Southern and Eastern India, including the Eastern Chalukyas, Eastern Gangas, Kakatiyas, Vijayanagara Empire, Qutb Shahis, Madurai Nayaks, and Thanjavur Nayaks.[31] It was also used as an official language outside its homeland, even by non-Telugu dynasties such as the Thanjavur Marathas in Tamil Nadu.[32]
+
+Telugu has an unbroken, prolific, and diverse literary tradition of over a thousand years.[33][34] Pavuluri Mallana's Sāra Sangraha Ganitamu (c. 11th century) is the first scientific treatise on mathematics in any Dravidian language.[35][36] Avadhānaṃ, a literary performance that requires immense memory power and an in-depth knowledge of literature and prosody, originated and was specially cultivated among Telugu poets for over five centuries.[37][38] Roughly 10,000 pre-colonial inscriptions exist in Telugu.[39]
+
+In the precolonial era, Telugu became the language of high culture throughout South India.[43] Vijaya Ramaswamy compared it to the overwhelming dominance of French as the cultural language of Europe during roughly the same era.[42] Telugu also predominates in the evolution of Carnatic music, one of two main subgenres of Indian classical music and is widely taught in music colleges focusing on Carnatic tradition.[46] Over the centuries, many non-Telugu speakers have praised the natural musicality of Telugu speech, referring to it as a mellifluous and euphonious language.[47][48]
+
+Person	Telugu
+People	Teluguvāru
+Language	Telugu
+Country	Telugu Nāḍu, India
+Etymology
+Telugu language is located in IndiaBhimeswaramBhimeswaramSrisailamSrisailamKaleswaramKaleswaram
+Locations of Trilinga Kshetras
+Speakers of Telugu refer to it as simply Telugu or Telugoo.[49] Older forms of the name include Teluṅgu and Tenuṅgu.[50] Tenugu is derived from the Proto-Dravidian word *ten ("south")[51] to mean "the people who lived in the south/southern direction" (relative to Sanskrit and Prakrit-speaking peoples). The name Telugu, then, is a result of an "n" to "l" alternation established in Telugu.[52][53]
+
+The popular belief holds that Telugu is derived from Trilinga of Trilinga Kshetras being the land bounded by the three Lingas which is Telugu homeland. P. Chenchiah and Bhujanga Rao note that Atharvana Acharya in the 13th century wrote a grammar of Telugu, calling it the Trilinga Śabdānusāsana (or Trilinga Grammar).[54] However, most scholars note that Atharvana's grammar was titled Atharvana Karikavali.[59] Appa Kavi in the 17th century explicitly wrote that Telugu was derived from Trilinga. Scholar C. P. Brown made a comment that it was a "strange notion" since the predecessors of Appa Kavi had no knowledge of such a derivation.[60]
+
+George Abraham Grierson and other linguists doubt this derivation, holding rather that Telugu was the older term and Trilinga must be the later Sanskritisation of it.[61][62] If so the derivation itself must have been quite ancient because Triglyphum, Trilingum and Modogalingam are attested in ancient Greek sources, the last of which can be interpreted as a Telugu rendition of "Trilinga".[63]
+
+History
+Telugu, as a Dravidian language, descends from Proto-Dravidian, a proto-language. Linguistic reconstruction suggests that Proto-Dravidian was spoken around the fourth millennium BCE.[64][65] Comparative linguistics confirms that Telugu belongs to the South Dravidian-II (also called South-Central Dravidian) sub-group, which also includes the non-literary languages like Gondi, Kuvi, Koya, Pengo, Konda and Manda.[66]
+
+Proto-Telugu is the reconstructed linguistic ancestor of all the dialects and registers of Telugu.[67] Russian linguist Mikhail S. Andronov, places the split of Telugu at c.1000 BCE.[68]
+
+The linguistic history of Telugu is periodised as follows:[19][69]
+
+Pre-historic Telugu (c. 600 BCE–200 BCE)
+Old Telugu (200 BCE–1000 CE)
+Middle Telugu (1000 CE–1600 CE)
+Modern Telugu (1600 CE–present)
+Pre-historic Telugu (c. 600 BCE – 200 BCE)
+Pre-historic Telugu is identified with the period around 600 BCE or even earlier.[70][71] Pre-historic Telugu is considered one of the most conservative languages of the Dravidian family based on its linguistic features.[72][73]
+
+Plural Markers: One notable feature is the presence of contrast in plural markers, such as -ḷ and -nkkVḷ (a combination of -nkk and -Vḷ), which was lost in the earliest forms of many other Dravidian languages.[74] Examples include pū-ḷ (flowers), ā-ḷ (cows), distinct from kolan-kuḷ (tanks), and ī-gaḷ (houseflies).
+Nominative Markers: The nominative markers were -nḏu (masc.sg.p1) and -aṁbu (inanimate.sg), which continued to appear in early inscriptions.[75]
+Personal Pronouns: Reconstructed personal pronouns include ñān (I) with the oblique form ñā, and ñām or ēm (we).[76]
+Phonemic Retention: The early language displayed high phonemic retention, with characteristic phonemes like the voiced retroflex approximant (ḻ or /ɻ/) and the voiced alveolar plosive (ḏ or /d/), which evolved into the alveolar trill (ṟ or /r/) in different positions. Both /d/ and /r/ are evidenced as distinct phonemes in early epigraphic records.[77][78]
+Tenses: Tenses were structured as "past vs non-past," and gender was categorized as "masculine vs non-masculine."[79]
+Demonstratives: Three demonstratives were in use: ā (distant 'that'), ī (proximate 'this'), and ū (intermediate 'yonder'; in Classical Telugu, ulla).[80]
+Non-Palatalized Initials: Non-palatalized initials are identified in words like kēsiri ("they did"), found in inscriptions up until the 8th century CE.[81]
+Word Endings: Words typically ended in vowels, though some had consonant endings with sonorants like -y, -r, -m, -n, -l, -ḷ, -ḻ, and -w. Classical Telugu developed an epenthetic -u that vowelized the final consonant, a feature that has been partly retained in Modern Telugu.
+Place Name Suffixes: Archaic place name suffixes include -puḻōl, -ūr, -paḷḷiya, -pāḷiyam, -paṟṟu, -konḏa, -pūṇḍi, -paṭṭaṇa(ṁbu), pāḻu, paṟiti, and pāka(m).[77]
+Apical Displacement: Apical displacement was underway for certain words.[82]
+Conjunctive Marker: The conjunctive marker -um had various structural applications.[83]
+Earliest records
+One of the earliest Telugu words, nágabu, found at the Amaravati Stupa, is dated to around 200 BCE.[84] This word was further analyzed by Iravatham Mahadevan in his attempts to decipher the Indus script.[85] Several Telugu words, primarily personal and place names, were identified at Amaravati, Nagarjunakonda, Krishna river basin, Ballari, Eluru, Ongole and Nellore between 200 BCE and 500 CE.[86]
+
+The Ghantasala Brahmin inscription[87] and the pillar inscription of Vijaya Satakarni at Vijayapuri, Nagarjunakonda, and other locations date to the first century CE.[23][88] Additionally, the Tummalagudem inscription of the Vishnukundinas dates to the 5th century CE.[89][23] Telugu place names in Prakrit inscriptions are attested from the 2nd century CE onwards.[90][91]
+
+A number of Telugu words were found in the Sanskrit and Prakrit inscriptions of the Satavahana dynasty, Vishnukundina dynasty, and Andhra Ikshvakus.[23] The coin legends of the Satavahanas, in all areas and all periods, used a Prakrit dialect without exception. Some reverse coin legends are in Telugu[24][92] and Tamil languages.[93]
+
+
+Telugu Talli Bomma (statue of Mother Telugu), the personification of Telugu language in Andhra Pradesh
+Post-Ikshvaku period
+Main article: Early Telugu epigraphy
+The period from the 4th century CE to 1022 CE marks the second phase of Telugu history, following the Andhra Ikshvaku period. The first long inscription entirely in Telugu, dated to 575 CE, is attributed to the Renati Choda king Dhanunjaya and found in the Kadapa district.[90][94][26]
+
+An early Telugu label inscription, "tolacuwānḍru" (తొలచువాండ్రు; transl. rock carvers or quarrymen), is found on one of the rock-cut caves around the Keesaragutta temple, 35 kilometers from Hyderabad.[95][96] This inscription is dated to the Vishnukundina period of around 400 CE[97][98] and is the earliest known short Telugu inscription from the Telangana region.[98]
+
+Several titles of Mahendravarman I in Telugu language, dated to c. 600 CE, were inscribed on cave-inscriptions in Tamil Nadu.[99]
+
+From the 6th century onwards, complete Telugu inscriptions began to appear in districts neighbouring Kadapa such as Prakasam and Palnadu.[100]: 10  Metrically composed Telugu inscriptions and those with ornamental or literary prose appear from 630 CE.[101][102] The Madras Museum plates of Balliya-Choda dated to the mid-ninth century CE, are the earliest copper plate grants in the Telugu language.[103]
+
+During this period, Telugu was heavily influenced by Sanskrit and Prakrit, corresponding to the advent of Telugu literature. Initially, Telugu literature appeared in inscriptions and poetry in the courts of rulers, and later in written works, such as Nannayya's Andhra Mahabharatam (1022 CE).[104]
+
+Middle Ages
+The third phase is marked by further stylisation and sophistication of the literary languages. During this period the split of the Telugu from the Telugu-Kannada alphabet took place.[105]
+
+Vijayanagara Empire
+The Vijayanagara Empire gained dominance from 1336 to the late 17th century, reaching its peak during the rule of Krishnadevaraya in the 16th century, when Telugu literature experienced what is considered its Golden Age.[104] The 15th-century Venetian explorer Niccolò de' Conti, who visited the Vijayanagara Empire, found that the words in the Telugu language end with vowels, just like those in Italian, and hence referred to it as "The Italian of the East";[106] a saying that has been widely repeated.[107]
+
+Delhi Sultanate, Qutb Shahi, and Nizam era
+A distinct dialect developed in present-day Hyderabad region, due to Persian and Arabic influence. This influence began with the establishment of the Delhi Sultanate rule by the Tughlaq dynasty in the northern Deccan Plateau during the 14th century.
+
+In the latter half of the 17th century, the Mughal Empire extended further south, culminating in the establishment of the Hyderabad State by the dynasty of the Nizam of Hyderabad in 1724. This heralded an era of Persian influence on the Telugu language, especially Hyderabad State. The effect is also evident in the prose of the early 19th century, as in the kaifiyats.[104]
+
+Colonial period
+In the late 19th and the early 20th centuries, the influence of the English language was seen, and modern communication/printing press arose as an effect of British rule, especially in the areas that were part of the Madras Presidency. Literature from this time had a mix of classical and modern traditions and included works by such scholars as Gidugu Venkata Ramamoorty, Kandukuri Veeresalingam, Gurajada Apparao, Gidugu Sitapati and Panuganti Lakshminarasimha Rao.[104]
+
+In the princely Hyderabad State, the Andhra Mahasabha was started in 1921 with the main goal of promoting Telugu language, literature, its books and historical research. Key figures in this movement included Madapati Hanumantha Rao (founder of the Andhra Mahasabha), Komarraju Venkata Lakshmana Rao (founder of the Library Movement in Hyderabad State), and Suravaram Pratapa Reddy.[108]
+
+Since the 1930s, what was considered an "elite" literary form of the Telugu language has now spread to the common people with the introduction of mass media like movies, television, radio and newspapers. This form of the language is also taught in schools and colleges as a standard.[109]
+
+Post-independence period
+Telugu is one of the 22 languages with official status in India.[110] The Andhra Pradesh Official Language Act, 1966, declares Telugu the official language of the state that is currently divided into Andhra Pradesh and Telangana.[111][112] It also has official language status in the Yanam district of the union territory of Puducherry. It is the fourth most spoken Indian language in India after Hindi, Bengali and Marathi.[113] It is one of the six classical languages of India.[114][115]
+
+Telugu Language Day is celebrated every year on 29 August, the birthday of Telugu poet Gidugu Venkata Ramamurthy.[116][117] The fourth World Telugu Conference was organised in Tirupati in the last week of December 2012. Issues related to Telugu language policy were deliberated at length.[118][119] The American Community Survey has said that data for 2016 which were released in September 2017 showed Telugu is the third most widely spoken Indian language in the US. Hindi tops the list followed by Gujarati, as of the 2010 census.[120][121]
+
+In the Indian subcontinent, a command over the Telugu language, alongside Sanskrit, Tamil, Meitei, Oriya, Persian, or Arabic, is highly appreciated and respected for learning dances (most significantly Indian Classical Dances) as dancers could have the tools of these languages to go into the primary material texts.[122]
+
+Geographic distribution
+Main article: States of India by Telugu speakers
+
+Geographic distribution of Telugu immigrants in light blue; Telugu is native to dark blue.
+Telugu is natively spoken in the states of Andhra Pradesh and Telangana and Yanam district of Puducherry. Telugu speakers are also found in the neighbouring states of Tamil Nadu, Karnataka, Maharashtra, Odisha, Chhattisgarh, some parts of Jharkhand, and the Kharagpur region of West Bengal in India. Many Telugu immigrants are also found in the states of Gujarat, Goa, Bihar, Kashmir, Uttar Pradesh, Punjab, Haryana, and Rajasthan. As of 2018 7.2% of the population, Telugu is the fourth-most-spoken native language in India after Hindi, Bengali, and Marathi. In Karnataka, 7.0% of the population speak Telugu, and 5.6% in Tamil Nadu.[123]
+
+There are more than 400,000 Telugu Americans in the United States.[124][125] As of 2018, Telugu is the fastest-growing language in the United States, (especially in New Jersey and New York City), with the number of Telugu speakers in the United States increasing by 86% between 2010 and 2017.[126] As of 2021, it is the 18th most spoken native language in the United States and the third most spoken South Asian language after Hindi and Urdu.[127] Minority Telugus are also found in Australia, New Zealand, Bahrain, Canada, Fiji, Malaysia, Sri Lanka, Singapore, Mauritius, Myanmar, Europe (Italy, the United Kingdom), South Africa, Trinidad and Tobago, and the United Arab Emirates.[15][128]
+
+Legal status
+Telugu is the official language of the Indian states of Andhra Pradesh and Telangana. It is one of the 22 languages under schedule 8 of the constitution of India. It is one of the official languages of the union territories of Puducherry. Telugu is a protected language in South Africa. According to the Constitution of South Africa, the Pan South African Language Board must promote and ensure respect for Telugu along with other languages.[129] The Government of South Africa announced that Telugu will be re-included as an official subject in the South African schools after it was removed from the curriculum in state schools.[130]
+
+In addition, with the creation in October 2004 of a legal status for classical languages by the Government of India on 8 August 2008, Telugu was also given classical language status due to several campaigns.[131][23][132]
+
+Epigraphical records
+Main article: Early Telugu epigraphy
+According to the famous Japanese historian Noboru Karashima who served as the president of the Epigraphical Society of India in 1985, there are approximately 10,000 inscriptions which exist in the Telugu language as of the year 1996 making it one of the most densely inscribed languages.[39] Telugu inscriptions are found in all the districts of Andhra Pradesh and Telangana.[135] They are also found in Karnataka, Tamil Nadu, Odisha, and Chhattisgarh.[139] According to recent estimates by ASI (Archaeological Survey of India) the number of inscriptions in the Telugu language goes up to 14,000.[100][140] Adilabad, Medak, Karimnagar, Nizamabad, Ranga Reddy, Hyderabad, Mahbubnagar, Anantapur, Chittoor and Srikakulam produced only a handful of Telugu inscriptions in the Kakatiya era between 1135 CE and 1324 CE.[141][142]
+
+Geographical influence
+Telugu region boundaries
+Andhra is characterised as having its own mother tongue, and its territory has been equated with the extent of the Telugu language. The equivalence between the Telugu linguistic sphere and the geographical boundaries of Andhra is also brought out in an eleventh-century description of Andhra boundaries. Andhra, according to this text, was bounded in north by Mahendra mountain in the modern Ganjam district in Odisha and to the south by Srikalahasteeswara temple in Tirupati district.[143] However, Andhra extended westwards as far as Srisailam in Nandyal district, about halfway across the modern state.[144] According to other sources in the early sixteenth century, the northern boundary is Simhachalam and the southern limit is Tirumala of the Telugu ation.[145][146][147][148][149][150]
+
+Telugu Place Names
+Main article: Place names in India
+Telugu place names are present all around Andhra Pradesh and Telangana. Common suffixes are -ooru, -pudi, -padu, -peta, -pattanam, -wada, -gallu, -cherla, -seema, -gudem, -palle, -palem, -konda, -veedu, -valasa, -pakam, -paka, -prolu, -wolu, -waka, -ili, -kunta, -parru, -villi, -gadda, -kallu, -eru, -varam,-puram,-pedu and -palli. Examples that use this nomenclature are Nellore, Tadepalligudem, Guntur, Chintalapudi, Yerpedu, Narasaraopeta, Sattenapalle, Visakapatnam, Vizianagaram, Ananthagiri, Vijayawada, Vuyyuru, Macherla, Poranki, Ramagundam, Warangal, Mancherial, Peddapalli, Siddipet, Pithapuram, Banswada, and Miryalaguda.
+
+Dialects
+
+Andhra Pradesh before bifurcation (1956–2014)
+Main article: Telangana dialect
+There are four regional dialects in Telugu:[151]
+
+Western : Telangana
+Southern: Rayalaseema
+Central: Coastal Andhra
+Northern : North Andhra
+Colloquially, Telangana, Rayalaseema and Coastal Andhra dialects are considered the three Telugu dialects and regions.[152]
+
+Waddar, Chenchu, and Manna-Dora are all closely related to Telugu.[153] Other dialects of Telugu are Berad, Dasari, Dommara, Golari, Kamathi, Komtao, Konda-Reddi, Salewari, Vadaga, Srikakula, Visakhapatnam, East Godavari, Rayalaseema, Nellore, Guntur, Vadari Bangalore, and Yanadi.[154]
+
+Phonology
+A man living in Germany speaking Telugu.
+Duration: 2 minutes and 10 seconds.2:10
+A woman residing in America speaking Telugu.
+The Roman transliteration used for transcribing the Telugu script is the National Library at Kolkata romanisation.
+
+Telugu words generally end in vowels. In Old Telugu, this was absolute; in the modern language m, n, y, w may end a word. Sanskrit loans have introduced aspirated and murmured consonants as well.
+
+Telugu does not have contrastive stress, and speakers vary on where they perceive stress. Most place it on the penultimate or final syllable, depending on word and vowel length.[155]
+
+Consonants
+The table below lists the consonant phonemes of Telugu,[156][157] along with the symbols used in the transliteration of the Telugu script used here (where different from IPA).
+
+Telugu consonants
+Labial	Denti-
+alveolar	Retroflex	Post-alv./
+Palatal	Velar	Glottal
+plain	sibilant
+Nasal	m m	n n		ɳ ṇ			
+Plosive/
+Affricate	unaspirated	p p	t t	t͡s ts	ʈ ṭ	t͡ʃ c	k k	
+voiced	b b	d d	d͡z dz	ɖ ḍ	d͡ʒ j	ɡ g	
+aspirated*	pʰ ph	tʰ th		ʈʰ ṭh	t͡ʃʰ ch	kʰ kh	
+breathy voiced*	bʱ bh	dʱ dh		ɖʱ ḍh	d͡ʒʱ jh	ɡʱ gh	
+Fricative*	f f		s s	ʂ ṣ	ʃ ś		h h
+Approximant	ʋ v	l l		ɭ ḷ	j y		
+Tap		ɾ r					
+The aspirated and breathy-voiced consonants occur mostly in Sanskrit and Prakrit loanwords, additionally /tʰ/ is used to substitute /θ/ in English loans, the only aspirate which occurs natively is /dʱ/ which occurs only in a few compound numbers e.g. /pɐddʱenimidi/ "18" likely a result of the proto Dravidian laryngeal */H/[158] there is also an unaspirated /pɐddenimidi/ version which is used more commonly. All of the fricatives except for native /s/ also only occurs in loanwords.[157]
+Perso-Arabic phonemes like /q, x, ɣ, z/ are substituted with /k, kʰ, ɡ, d͡ʒ/ similar to Hindi.[157]
+/t͡s, d͡z/ occur only in native words and lack aspirated/breathy forms. Native words with /t͡ʃ, d͡ʒ/ before non front vowels became /t͡s, d͡z/; this change became phonemised after loaning words with /t͡ʃ, d͡ʒ/ from other languages. Intervocalically /d͡z/ can become [z] e.g. [rɐːzu, d͡zoːli, ɡudd͡zu].[157]
+/ʋ/ can be rounded to a [β̞ʷ] around rounded vowels.[157]
+The common Proto Dravidian approximant */ɻ/ merged with /ɖ/ in Telugu while it was preserved as /ɽ/ in the other Southern II branch languages.[158]
+Many of the old /ɳ/ and /ɭ/ merged with /n/ and /l/.[158]
+Most consonants contrast in length in word-medial position, meaning that there are long (geminated) and short phonetic renderings of the sounds. A few examples of words that contrast by length of word-medial consonants:[157]
+
+/ɡɐdi/ gadi (room) – /ɡɐdːi/ gaddi (grass)
+/ɐʈu/ aṭu (that side) – /ɐʈːu/ aṭṭu (pancake)
+/moɡɐ/ moga (male) – /moɡːɐ/ mogga (bud)
+/nɐmɐkɐmu/ namakamu (a vedic hymn) – /nɐmːɐkɐmu/ nammakamu (belief)
+/kɐnu/ kanu (to give birth to) – /kɐnːu/ kannu (eye)
+/kɐlɐ/ kala (dream) – /kɐlːɐ/ kalla (falsehood)
+/mɐɾi/ mari (again) – /mɐɾːi/ marri (banyan tree)
+All retroflex consonants occur in intervocalic position and when adjacent to a retroflex consonant, for instance. /ʋɐːɳiː/ vāṇī 'tippet', /kɐʈɳɐm/ kaṭṇam 'dowry', /pɐɳɖu/ paṇḍu 'fruit'; /kɐɭɐ/ kaḷa 'art'. With the exception of /ɳ/ and /ɭ/, all occur word-initial in a few words, such as /ʈɐkːu/ ṭakku 'pretence', /ʈhiːʋi/ ṭhīvi 'grandeur', /ɖipːɐ/ ḍippā 'half of a spherical object', and /ʂoːku/ ṣōku 'fashionable appearance'.[157]
+
+The approximant /j/ occurs in word-initial position only in borrowed words, such as. /jɐnɡu/ yangu, from English 'young', /jɐʃɐsːu/ yaśassu from Sanskrit yaśas /jɐʃɐs/ 'fame'.[citation needed]
+
+Vowels
+Vowels in Telugu contrast in length; there are short and long versions of all vowels except for /æ/, which only occurs as long. Long vowels can occur in any position within the word, but native Telugu words do not end in a long vowel. Short vowels occur in all positions of a word, with the exception of /o/, which does not occur word-finally.[157] The vowels of Telugu are illustrated below, along with the Telugu script and romanisation.
+
+Vowels (అచ్చులు acchulu)
+Front	Central	Back
+Close	i ఇ i	iː ఈ ī		u ఉ u	uː ఊ ū
+Mid	e ఎ e	eː ఏ ē	o ఒ o	oː ఓ ō
+Open		a ~ ɐ అ a	aː ~ ɐː ఆ ā	
+An emphatic u maybe added to loans ending with a consonant, eg. school > iskūlu.
+Allophones
+In most dialects, the vowel /æː/ only occurs in loan words. In the Guntur dialect, [æː] is a frequent allophone of /aː/ in certain verbs in the past tense.
+
+Telugu has two diphthongs: /ai/ (ఐ) and /au/ (ఔ).
+
+Roots alter according to whether the first vowel is tense or lax.[159][need illustrations] Also, if the second vowel is open (i.e., /aː/ or /a/), then the first vowel is more open and centralised (e.g., [mɛːka] 'goat', as opposed to [meːku] 'nail').[citation needed] Telugu words also have vowels in inflectional suffixes that are harmonised with the vowels of the preceding syllable.[160]
+
+Colloquial speech[161]
+In some colloquial speech ṇ, ḷ might completely merge with n, l except in clusters with retroflex plosives.
+Telanganan dialects merge ś to ṣ while other dialects merge ś with s, eg. iṣṭam, dēśam > istaw̃, dēsaw̃/dēṣaw̃.
+Non initial and particularly final m tends to be [w̃].
+Initial kṣ tend to be kś before front vowels and kṣ/ṭṣ before other in educated speech, ch for uneducated speech; medially tts(h) for all.
+Cluster simplification, eg. viplavam, amlam, raktam, anyāyam > yipalavaw̃, āw̃alaw̃, rattaw̃, annēyaw̃.
+va, vā becomes (w)o, {ā, ō} initially, eg. vāḍu > āḍu/ōḍu. Before front vowels the v becomes y, eg. vennela > yennela.
+Some aspirates might be debuccalized to a h while previous actual h's might be deleted, eg. mukham, mahā > muhaw̃/mugaw̃, mā.
+Telanganan speech tend to have less aspirated consonants.
+Palatalization, eg. madhyāhnam > majjhānaw̃/majjhēnaw̃.
+ph, ts, dz > f, s, j.
+Differences in suffixing, eg. kannu-lu > Coastal kaḷḷu, Rayalseema kaṇḍḷu/kaṇḷu, Telangana kanlu.
+Sri Lankan Telugu too lacks ṇ, ḷ, merges c with s and has vowel alternations like i instead of final -u, perhaps due to Tamil and Sinhalese influence.[162]
+Grammar
+Main article: Telugu grammar
+The traditional study of Telugu Grammar is known as vyākaraṇam (వ్యాకరణం). The first treatise on Telugu grammar, the Āndhra Śabda Cintāmaṇi, was written in Sanskrit by Nannayya, considered the first Telugu poet and translator, in the 12th century CE. This grammar followed patterns described in grammatical treatises such as Aṣṭādhyāyī and Vālmīkivyākaranam, but unlike Pāṇini, Nannayya divided his work into five chapters, covering samjnā, sandhi, ajanta, halanta and kriya.
+
+In the 19th century, Chinnaya Suri wrote a condensed work on Telugu grammar called Bāla Vyākaraṇam, borrowing concepts and ideas from Nannayya's grammar.
+
+Morphosyntax
+Relations between participants in an event are coded in Telugu words through suffixation; there are no prefixes or infixes in the language.[156] There are six word classes in Telugu: nominals (proper nouns, pronouns), verbs (actions or events), modifiers (adjectives, quantifiers, numerals), adverbs (modify the way in which actions or events unfold), and clitics.
+
+Telugu nouns are inflected for number (singular, plural), noun class (three classes traditionally termed masculine, feminine, and neuter) and case (nominative, accusative, genitive, dative, vocative, instrumental, and locative).[163]
+
+Word order
+The basic word order in Telugu is subject-object-verb (SOV).[164]
+
+Noun classes (gender)
+As with other Dravidian languages, gender in Telugu follows a semantic system,[165] in the sense that it is mostly the meaning of the word which defines the noun class to which it belongs. There are three noun classes: masculine (human males, he-gender), feminine (human females, she-gender), and neuter (all non-humans, it-gender). The gender of most nouns is encoded through agreement/indexation in pronominal suffixes rather than overtly on the noun.[156]
+
+anna
+
+older.brother
+
+waccāḍu
+
+come-past-MASC
+
+The older brother came
+
+amma
+
+mother
+
+wacc-indi
+
+come-past-FEM
+
+Mother came
+
+In terms of the verbal agreement system, genders in marking on the Telugu verb only occur in the third person.[156]
+
+Third person	Singular	Plural
+Masculine	
+tericā-ḍu
+
+He opened
+
+tericā-ru
+
+They opened
+
+Feminine	
+tericin-di
+
+She opened
+
+tericā-ru
+
+They opened
+
+Neuter	
+tericin-di
+
+It opened
+
+tericā-yi/tericina-wi
+
+They (non-human) opened
+
+The Telugu gender system differs from other Dravidian languages such as Tamil in that the Telugu feminine shares indexation morphemes with the masculine plural (-ru) and with the neuter singular (-di). What characterises the three-gender system is then the individual behaviour of the singular-plural pairs of suffixes.[165]
+
+Gender	Verbal suffixes
+(singular : plural)
+Masculine	-ḍu : -ru
+Feminine	-di : -ru
+Neuter	-di : -yi/-wi
+Pronouns
+Telugu pronouns include personal pronouns (the persons speaking, the persons spoken to, or the persons or things spoken about); indefinite pronouns; relative pronouns (connecting parts of sentences); and reciprocal or reflexive pronouns (in which the object of a verb is acted on by the verb's subject).
+
+Personal pronouns
+Telugu pronouns
+I	నేను, nēnu
+we	మనం, manaṃ
+మనము, manamu
+
+we but not you	మేము, mēmu
+you (singular)	నీవు, nīvu
+నువ్వు, nuvvu
+
+you (plural)	మీరు, mīru
+she	ఆమె, aame
+he	అతను, atanu
+they (humans)	వాళ్ళు, vāḷḷu
+it	అది, adi
+they (non-humans)	అవి, avi
+In informal Telugu, personal pronouns distinguish masculine from non-masculine.[166][167]
+
+Demonstratives
+There is a wide variety of demonstrative pronouns in Telugu, whose forms depend on both proximity to the speaker and the level of formality. The formal demonstratives may also be used as formal personal pronoun, that is, the polite forms for this woman or this man and that woman or that man can also simply mean she and he in more formal contexts.
+
+In the singular, there are four levels of formality when speaking about males and females, although the most formal/polite form is the same for both human genders. In both singular and plural, Telugu distinguishes two levels of distance from speaker (like in English), basically this and that, and these and those.
+
+Singular
+Proximal
+(close to speaker, "this")
+
+Distal
+(far from speaker, "that")
+
+Gender/Formality	Feminine	Masculine	Neuter	Feminine	Masculine	Neuter
+very informal	idi	vīḍu	idi	adi	vāḍu	adi
+informal	īme	itanu	āme	atanu
+formal	īviḍa	īyana	āviḍa	āyana
+very formal	vīru	vāru
+In the plural, there are no distinctions between formality levels, but once again masculine and feminine forms are the same, while the neuter demonstratives are different.
+
+Plural
+Proximal
+(close to speaker, "these")
+
+Distal
+(far from speaker, "those")
+
+Feminine	Masculine	Neuter	Feminine	Masculine	Neuter
+vīỊỊu/vīru	ivi	vāỊỊu/vāru	avi
+Case system
+The nominative case (karta), the object of a verb (karma), and the verb are somewhat in a sequence in Telugu sentence construction. "Vibhakti" (case of a noun) and "pratyāyamulu" (an affix to roots and words forming derivatives and inflections) depict the ancient nature and progression of the language. The "Vibhaktis" of Telugu language " డు [ɖu], ము [mu], వు [vu], లు [lu]", etc., are different from those in Sanskrit and have been in use for a long time.
+
+Lexicon
+Majority of the lexicon in Telugu is inherited from Proto-Dravidian language, a reconstructed hypothetical language of third millennium BCE.[168][169] Telugu retained some of the most archaic words, markers and morphemes of the Dravidian origin.[170][171] It shares its cognates with its closest South-Dravidian-II languages like Gondi, Kuwi and also with other Dravidian languages such as Tamil and Kannada.
+
+The lexicon of Classical Telugu works shows a pervasive influence of Sanskrit; there is also evidence suggesting an earlier influence even before Nannaya.[172] During the period 1000–1100 CE, Nannaya's re-writing of the Mahābhārata in Telugu (మహాభారతము) established the liberal borrowing of Sanskrit words.[173]
+
+Literature in acca telugu or jānu telugu (జానుతెలుగు) by poets like Adibhatla Narayana Dasu and Ponneganti Telaganna emphasised the importance of native lexicon of Dravidian origin, in contrast to the extensive borrowings from Sanskrit and Prakrit.[174][70] Spoken Telugu preserved most of its Dravidian lexicon intact in various colloquial dialects.
+
+The vocabulary of Telugu, especially in the city of Hyderabad, has borrowings from Persian and Arabic (through Urdu and directly) languages. These words have been modified to fit Telugu phonology. This was due to Turkic rule in these regions, such as the erstwhile kingdoms of Golkonda and Hyderabad (e.g., కబురు, /kaburu/ for Urdu /xabar/, خبر or జవాబు, /dʒavaːbu/ for Urdu /dʒawɑːb/, جواب).
+
+Many words were borrowed from English language in the modern era and a few from Portuguese during the colonial era. Modern Telugu vocabulary can be said to constitute a diglossia because the formal, standardised version of the language is either lexically Sanskrit or heavily influenced by Sanskrit, as taught in schools, and used by the government and Hindu religious institutions. However, colloquial Telugu is less influenced by Sanskrit and varies depending upon region.
+
+Prakruti and Vikruti
+Telugu has many Tatsama words. They are called Prakruti, which are equivalent to Sanskrit words. The equivalent colloquial or Tadbhava words are called Vikruti, which means distorted. However, Prakruti is only used as a medium of instruction in educational institutions, offices etc.
+
+Prakruti	Vikruti
+అగ్ని Agni (fire)	అగ్గి Aggi
+భోజనం Bhojanam (food)	బోనం Bonam
+విద్య Vidya (education)	విద్దె Vidhe, విద్దియ Vidhiya
+రాక్షసి Raakshasi (evil)	రక్కసి Rakkasi
+శూన్య Soonya (zero)	సున్న Sunna
+దృష్టి Drushti (sight)	దిష్టి Dishti
+కనిష్టం Kanishtam (minimum)	కనీసం Kaneesam
+అగరవర్తి Agaravarti (incense, agara+varthi, scent wounded)	అగరవత్తి Agaravatti
+విభూతి Vibhoothi (ash)	విభూధి Vibhudhi
+చనక Chanaka (chick pea, Chanakya is derived from the same root)	శనగ śanaga
+కవచ Kavacha (protective shell)	గవచ Gavacha, గవ్వ Gavva
+భిక్షం Bhiksham (alms)	బిచ్చం Bicham
+ద్వితీయ Dvitiya (second)	విదియ Vidiya
+తృతీయ Trutiya (third)	తదియ Thadhiya
+జాగ్రత Jaagrata (alert)	జాగ్రత్త Jaagratta
+వామతి Vamati (vomit)	వాంతి Vanthi
+స్వంత Swantha (own)	సొంత Sonta
+అటవి Atavi (forest)	అడవి Adavi
+త్వర Twara (fast)	తొరగా Toraga
+రక్తము Rakthamu (blood)	రగతము Ragathamu
+Sample text
+The given sample text is Article 1 from the United Nations Universal Declaration of Human Rights.[175]
+
+English
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+Telugu
+ప్రతిపత్తిస్వత్వముల విషయమున మానవులెల్లరును జన్మతః స్వతంత్రులును సమానులును నగుదురు. వారు వివేచన-అంతఃకరణ సంపన్నులగుటచే పరస్పరము భ్రాతృభావముతో వర్తింపవలయును.
+
+Romanisation (ISO 15919)
+Pratipattisvatvamula viṣayamuna mānavulellarunu janmataḥ svatantrulunu samānulunu naguduru. Vāru vivēcana-antaḥkaraṇa sampannulaguṭacē parasparamu bhrātr̥bhāvamutō vartimpavalayunu.
+
+IPA
+/pɾɐt̪ipɐt̪t̪isʋɐt̪ʋɐmulɐ viʂɐjɐmun̪ɐ maːn̪ɐʋulellaɾun̪u d͡ʒɐn̪mɐt̪ɐhɐ sʋɐt̪ɐn̪t̪ɾulun̪u sɐmaːn̪ulun̪u n̪ɐɡud̪uɾu ǁ ʋaːɾu ʋiʋeːt͡ʃɐn̪ɐ ɐn̪t̪ɐkkɐɾɐɳɐ sɐmpɐn̪n̪ulɐɡuʈɐt͡ʃeː pɐɾɐspɐɾɐmu bʱɾaːt̪ɾubʱaːʋɐmut̪oː ʋɐɾt̪impɐʋɐlɐjun̪u ǁ/
+
+Writing system
+Consonants – హల్లులు, hallulu
+క
+ka
+IPA: /ka/
+ఖ
+kha
+IPA: /kʰa/
+గ
+ga
+IPA: /ɡa/
+ఘ
+gha
+IPA: /ɡʱa/
+ఙ
+ṅa
+IPA: /ŋa/
+చ
+ca
+IPA: /t͡ʃa/
+ఛ
+cha
+IPA: /t͡ʃʰa/
+జ
+ja
+IPA: /d͡ʒa/
+ఝ
+jha
+IPA: /d͡ʒʱa/
+ఞ
+ña
+IPA: /ɲa/
+ట
+ṭa
+IPA: /ʈa/
+ఠ
+ṭha
+IPA: /ʈʰa/
+డ
+ḍa
+IPA: /ɖa/
+ఢ
+ḍha
+IPA: /ɖʱa/
+ణ
+ṇa
+IPA: /ɳa/
+త
+ta
+IPA: /ta/
+థ
+tha
+IPA: /tʰa/
+ద
+da
+IPA: /d/a
+ధ
+dha
+IPA: /dʱa/
+న
+na
+IPA: /na/
+ప
+pa
+IPA: /pa/
+ఫ
+pha
+IPA: /pʰa/
+బ
+ba
+IPA: /ba/
+భ
+bha
+IPA: /bʱa/
+మ
+ma
+IPA: /ma/
+య
+ya
+IPA: /ja/
+ర
+ra
+IPA: /ɾa/
+ల
+la
+IPA: /la/
+వ
+va
+IPA: /ʋa/
+ళ
+ḷa
+IPA: /ɭa/
+శ
+sa
+IPA: /sa/
+ష
+ṣa
+IPA: /ʂa/
+స
+sa
+IPA: /sa/
+హ
+ha
+IPA: /ha/
+Main articles: Telugu script and Telugu Braille
+Telugu script is an abugida comprising 60 symbols – 16 vowels, 3 vowel modifiers, and 41 consonants. Telugu has a complete set of letters that follow a system to express sounds. The script is derived from the Brahmi script like those of many other Indian languages.[176][177] Telugu script is written from left to right and comprises sequences of both simple and complex characters. It is syllabic in nature – the basic units of writing are syllables. Inasmuch as the number of possible syllables is very large, syllables are composed of more basic units such as vowels ("acchu" or "swaram") and consonants ("hallu" or "vyanjanam"). Consonants in consonant clusters take shapes that are very different from the shapes they take elsewhere. Consonants are presumed pure consonants, that is, without any vowel sound in them. However, it is traditional to write and read consonants with an implied "a" vowel sound. When consonants combine with other vowel signs, the vowel part is indicated orthographically using signs known as vowel "mātras". The shapes of vowel "mātras" are also very different from the shapes of the corresponding vowels.
+
+Historically, a sentence used to end with either a single bar। ("pūrna virāmam") or a double bar॥ ("dīrgha virāmam"); in handwriting, Telugu words were not separated by spaces. However, in modern times, English punctuation (commas, semicolon, etc.) has virtually replaced the old method of punctuation.[178]
+
+Telugu has full-zero ("anusvāra" or "sunna" ) ( ం ), half-zero ("arthanusvāra" or "candrabindu" or "ara-sunna" ) (ఁ) and visarga ( ః ) to convey various shades of nasal sounds. [la] and [La], [ra] and [Ra] are differentiated.[178]
+
+Telugu has ĉ [t͡s] and ĵ [d͡z], which are not represented in Sanskrit.
+
+
+Wall painting at a shop in India. It first shows the painted party symbols of all the major political parties in the region during the nationwide elections in India in 2014. It also has a Telugu inscription showing availability of political flags, banners, caps, badges and other election material.
+Telugu Guṇintālu (తెలుగు గుణింతాలు)
+These are some examples of combining a consonant with different vowels.
+క కా కి కీ కు కూ కృ కౄ కె కే కై కొ కో కౌ క్ కం కః
+ఖ ఖా ఖి ఖీ ఖు ఖూ ఖృ ఖౄ ఖె ఖే ఖై ఖొ ఖో ఖౌ ఖ్ ఖం ఖః
+
+Number system
+Telugu has ten digits employed with the Hindu–Arabic numeral system. However, in modern usage, the Arabic numerals have replaced them.
+
+Telugu numerals
+0
+sunna
+౦
+1
+okaṭi
+౧
+2
+renḍu
+౨
+3
+mūḍu
+౩
+4
+nālugu
+౪
+5
+aidu
+౫
+6
+āru
+౬
+7
+ēḍu
+౭
+8
+enimidi
+౮
+9
+tommidi
+౯
+Telugu is assigned Unicode codepoint
